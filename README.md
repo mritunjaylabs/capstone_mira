@@ -55,5 +55,8 @@ This document maps out the multi-agent routing workflow, visualizes the decision
 ## Test Case execution result
 ** https://docs.google.com/document/d/1AMGtNZ10tO21j1uQTuHk7d6vEzPhHeoWCLqcxhPTAR8/edit?tab=t.0
 
+## Langfuse Traces and cost breakdown
+https://docs.google.com/document/d/1K0_XStlukgFXamvYSe9GUnB4OuFAIfDtHLZBol9UZQs/edit?tab=t.0
+
 
 
